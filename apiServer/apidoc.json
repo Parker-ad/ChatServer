@@ -1,0 +1,11 @@
+{
+  "name": "登录注册接口文档",
+  "version": "0.0.1",
+  "description": "登录注册接口文档",
+  "title": "登录注册接口文档",
+  "url" : "http://127.0.0.1:3000",
+  "header": {
+    "title": "My own header title",
+    "filename": "./readme.md"
+  }
+}
